@@ -1,0 +1,9 @@
+Dataset yang disediakan:
+- dataset iris
+- dataset wine
+- dataset digits
+- dataset breast cancer
+
+Dataset yang sudah diujikan pada laporan:
+- dataset iris
+- dataset breast cancer
